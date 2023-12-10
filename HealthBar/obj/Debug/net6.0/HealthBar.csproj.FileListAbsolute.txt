@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HealthBar\HealthBar\bin\Debug\net6.0\HealthBar.exe
+C:\Users\User\source\repos\HealthBar\HealthBar\bin\Debug\net6.0\HealthBar.deps.json
+C:\Users\User\source\repos\HealthBar\HealthBar\bin\Debug\net6.0\HealthBar.runtimeconfig.json
+C:\Users\User\source\repos\HealthBar\HealthBar\bin\Debug\net6.0\HealthBar.dll
+C:\Users\User\source\repos\HealthBar\HealthBar\bin\Debug\net6.0\HealthBar.pdb
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\HealthBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\HealthBar.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\HealthBar.AssemblyInfo.cs
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\HealthBar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\HealthBar.dll
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\refint\HealthBar.dll
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\HealthBar.pdb
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\HealthBar.genruntimeconfig.cache
+C:\Users\User\source\repos\HealthBar\HealthBar\obj\Debug\net6.0\ref\HealthBar.dll
